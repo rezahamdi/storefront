@@ -1,0 +1,20 @@
+2023-04-10 06:20:48,595 - INFO - playground.views - Calling httpbin
+2023-04-10 06:20:52,835 - INFO - playground.views - Recive httpbin response
+2023-04-10 18:11:23,672 - INFO - django.utils.autoreload - Watching for file changes with StatReloader
+2023-04-10 18:11:23,921 - WARNING - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-04-10 18:11:26,813 - WARNING - django.request - Not Found: /favicon.ico
+2023-04-10 18:12:38,200 - WARNING - django.request - Unauthorized: /store/collections/
+2023-04-10 18:12:38,205 - WARNING - django.request - Forbidden: /store/collections/
+2023-04-10 18:12:38,208 - WARNING - django.request - Bad Request: /store/collections/
+2023-04-10 18:17:55,267 - INFO - django.utils.autoreload - /Users/reza/MyFolder/DjangoProjects/storefront3/storefront/settings/common.py changed, reloading.
+2023-04-10 18:17:55,640 - INFO - django.utils.autoreload - Watching for file changes with StatReloader
+2023-04-10 18:17:55,715 - WARNING - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-04-10 18:17:59,259 - WARNING - django.request - Unauthorized: /store/collections/
+2023-04-10 18:17:59,297 - WARNING - django.request - Forbidden: /store/collections/
+2023-04-10 18:17:59,309 - WARNING - django.request - Bad Request: /store/collections/
+2023-04-10 22:12:47,290 - WARNING - django.request - Unauthorized: /store/collections/
+2023-04-10 22:12:47,325 - WARNING - django.request - Forbidden: /store/collections/
+2023-04-10 22:12:47,337 - WARNING - django.request - Bad Request: /store/collections/
+2023-04-10 22:14:58,401 - WARNING - django.request - Unauthorized: /store/collections/
+2023-04-10 22:14:58,434 - WARNING - django.request - Forbidden: /store/collections/
+2023-04-10 22:14:58,446 - WARNING - django.request - Bad Request: /store/collections/
